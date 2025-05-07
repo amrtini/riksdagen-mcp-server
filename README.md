@@ -1,6 +1,7 @@
 # Riksdagen MCP Server
 
 This project implements a Model Context Protocol (MCP) server that allows Claude to search the Swedish Parliament (Riksdagen) document archive and retrieve URLs in JSON format.
+The project is generetad using Claude 3.7. 
 
 ## Overview
 
@@ -22,7 +23,7 @@ The Riksdagen MCP server provides tools for searching documents in the Swedish P
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/riksdagen-mcp-server.git
+   git clone https://github.com/amrtini/riksdagen-mcp-server.git
    cd riksdagen-mcp-server
    ```
 
